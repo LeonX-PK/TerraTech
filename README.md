@@ -39,7 +39,7 @@ E-commerce app for farmers to rent and list farming equipment.
 |---------------|-------------------------------|
 | Pradeep (PK)  | Developer, innovation & design|
 | Swarup        | UI/UX, video, promotion       |
-| Yogeshwaran   | Frontend design & flow        |
+
 
 ---
 
